@@ -36,6 +36,6 @@ public class MovieResource {
         // Implementation for deleting a movie
     }
 
-    // Add endpoint for getMoviesByGenre if needed
+    // Add endpoint for getMoviesByGenre
 
 }
