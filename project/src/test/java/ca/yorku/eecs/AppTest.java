@@ -276,7 +276,6 @@ public class AppTest extends TestCase
         response.close();
     }
 
-    // New Features
 
     // GET /api/v1/getMoviesByGenre
 
