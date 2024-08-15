@@ -37,7 +37,7 @@ public class ActorResource {
         // Implementation for updating an actor's name
     }
 
-    // Add endpoint for getActorsTopThreeFilms if needed
+    // Add endpoint for getActorsTopThreeFilms
 
 }
 
